@@ -55,6 +55,5 @@ python main.py
 Используемые технологии
 
 - Python
-- Git
 - GitHub
 - Fork
